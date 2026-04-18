@@ -102,6 +102,38 @@
 ## Alternative Kurzfassung (15 s, wenn knapper)
 
 Szenen 2 → 3 → 5 → 8 (Claim · Pills · Live-Card · CTA). Themen-Pills und Live-Card sind die visuell einzigartigsten Elemente der Seite – die müssen rein.
+Ausgearbeitete 15-s-Version siehe `instagram-reel-15s-tiktok.md`.
+
+---
+
+## Weitere Sections (Einbindung, sobald Screenshots vorliegen – Annahmen auf Basis der Navigation)
+
+### Section 03 · FÖRDERCHECK – „Was Sie sparen, bevor gerechnet wird."
+**Mögliche Reel-Szene (optional, +3 s):**
+- Animierter Slider/Counter: `Heizkosten alt 3.840 €/Jahr` → `neu 1.150 €/Jahr`
+- Gelber Balken streicht Differenz durch, Einblendung: „Bis zu **70 % Förderung** möglich."
+- CTA-Pill: `Förderscheck öffnen →`
+
+### Section Partner
+- Logo-Reihe in Light-Section: **Stiebel Eltron Fachpartner · tecalor zertifiziert · konzept-54**
+- Text: „Keine Schnittstellenverluste. Kein Zuständigkeits-Ping-Pong."
+- Bereits als Szene 6 im Hauptstoryboard vorhanden.
+
+### Section FAQ (Kurzform für Reel-Overlay oder Caption)
+Typische Fragen, die auf der Seite stehen dürften:
+- „Lohnt sich eine Wärmepumpe bei meinem Altbau?"
+- „Welche Förderung bekomme ich konkret?"
+- „Wie laut ist die Außeneinheit?"
+- „Was kostet die Komplettlösung?"
+- „Wann ist der nächste Termin in Hamburg & Umland frei?"
+→ Als **Karussell-Post** nach dem Reel verwenden.
+
+### Footer
+- FriStD-Bau · Zimmerei & Baufirma
+- Adresse: Hamburg (genaue Straße ggf. ergänzen)
+- Telefon: `040 · 386 745 65`
+- Impressum / Datenschutz
+- Für Reel: nur Telefon + URL im CTA-Frame benötigt.
 
 ---
 

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720" width="600" height="720">
+  <rect x="2" y="2" width="596" height="716" rx="8" ry="8" fill="#0A0A0A"/>
+  <!-- Icon-Box (Haus, gelb) -->
+  <rect x="48" y="48" width="72" height="72" rx="14" fill="#FFE500"/>
+  <path d="M62,94 L84,72 L106,94 L106,108 L62,108 Z" fill="none" stroke="#0A0A0A" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Meta -->
+  <text x="48" y="200" font-family="JetBrains Mono, monospace" font-weight="500" font-size="20" fill="#8A887E" letter-spacing="2">SCHRITT 02 · MEISTERBETRIEB</text>
+  <!-- Headline -->
+  <text x="48" y="270" font-family="Inter, sans-serif" font-weight="800" font-size="48" fill="#FFFFFF">Lieferung, Einbau</text>
+  <text x="48" y="324" font-family="Inter, sans-serif" font-weight="800" font-size="48" fill="#FFFFFF">&amp; Inbetriebnahme</text>
+  <!-- Body -->
+  <text x="48" y="402" font-family="Inter, sans-serif" font-size="22" fill="#D8D6CC">Montage durch unsere eigene Installateur-</text>
+  <text x="48" y="432" font-family="Inter, sans-serif" font-size="22" fill="#D8D6CC">und Heizungsbauabteilung. Stiebel Eltron</text>
+  <text x="48" y="462" font-family="Inter, sans-serif" font-size="22" fill="#D8D6CC">Fachpartner, zertifizierter tecalor-Partner —</text>
+  <text x="48" y="492" font-family="Inter, sans-serif" font-size="22" fill="#D8D6CC">saubere Hydraulik, korrekter Abgleich,</text>
+  <text x="48" y="522" font-family="Inter, sans-serif" font-size="22" fill="#D8D6CC">geprüfte Inbetriebnahme.</text>
+  <!-- Tags -->
+  <g font-family="Inter, sans-serif" font-weight="600" font-size="18" fill="#FFFFFF">
+    <rect x="48"  y="600" width="264" height="52" rx="26" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="180" y="633" text-anchor="middle">HYDRAULISCHER ABGLEICH</text>
+    <rect x="326" y="600" width="180" height="52" rx="26" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="416" y="633" text-anchor="middle">STIEBEL ELTRON</text>
+    <rect x="48"  y="664" width="130" height="52" rx="26" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="113" y="697" text-anchor="middle">TECALOR</text>
+  </g>
+</svg>

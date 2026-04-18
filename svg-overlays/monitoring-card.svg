@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 560" width="720" height="560">
+  <!-- Card BG -->
+  <rect x="2" y="2" width="716" height="556" rx="18" ry="18" fill="#0F0F0E" stroke="#1F1F1D" stroke-width="2"/>
+  <!-- Header -->
+  <text x="32" y="48" font-family="JetBrains Mono, monospace" font-size="18" fill="#8A887E" letter-spacing="2">LIVE · MONITORING-DEMO</text>
+  <text x="32" y="96" font-family="Inter, sans-serif" font-weight="700" font-size="32" fill="#FFFFFF">WP-Anlage · Hamburg Niendorf</text>
+  <!-- Online indicator -->
+  <circle cx="614" cy="42" r="7" fill="#22C55E"/>
+  <text x="630" y="48" font-family="JetBrains Mono, monospace" font-size="18" fill="#22C55E" letter-spacing="2">ONLINE</text>
+
+  <!-- KPI grid -->
+  <g font-family="JetBrains Mono, monospace" font-size="16" fill="#8A887E" letter-spacing="2">
+    <rect x="32"  y="130" width="210" height="110" rx="10" fill="#161614" stroke="#22221F" stroke-width="1"/>
+    <text x="50"  y="160">JAZ</text>
+    <text x="50"  y="218" font-family="Inter, sans-serif" font-size="54" font-weight="800" fill="#FFFFFF">4.8</text>
+
+    <rect x="254" y="130" width="210" height="110" rx="10" fill="#161614" stroke="#22221F" stroke-width="1"/>
+    <text x="272" y="160">VORLAUF</text>
+    <text x="272" y="218" font-family="Inter, sans-serif" font-size="54" font-weight="800" fill="#FFFFFF">37 °C</text>
+
+    <rect x="476" y="130" width="210" height="110" rx="10" fill="#161614" stroke="#22221F" stroke-width="1"/>
+    <text x="494" y="160">STROM → WÄRME</text>
+    <text x="494" y="218" font-family="Inter, sans-serif" font-size="54" font-weight="800" fill="#FFE500">1 : 4.6</text>
+  </g>
+
+  <!-- Chart -->
+  <rect x="32" y="260" width="654" height="220" rx="10" fill="#161614" stroke="#22221F" stroke-width="1"/>
+  <text x="50" y="290" font-family="JetBrains Mono, monospace" font-size="14" fill="#8A887E" letter-spacing="2">WÄRMEABGABE · 24 H · KWH</text>
+  <!-- Chart line -->
+  <path d="M50,440 L90,420 L130,430 L170,400 L210,405 L250,380 L290,370 L330,390 L370,360 L410,340 L450,360 L490,320 L530,330 L570,300 L610,310 L660,290"
+        fill="none" stroke="#FFE500" stroke-width="3"/>
+  <!-- Peak label -->
+  <rect x="570" y="280" width="110" height="28" rx="14" fill="#FFE500"/>
+  <text x="625" y="299" text-anchor="middle" font-family="Inter, sans-serif" font-weight="700" font-size="14" fill="#0A0A0A">Peak 8.5 kWh</text>
+
+  <!-- Footer -->
+  <text x="32" y="520" font-family="JetBrains Mono, monospace" font-size="14" fill="#8A887E" letter-spacing="2">LETZTE SYNC: GERADE EBEN</text>
+  <text x="686" y="520" text-anchor="end" font-family="JetBrains Mono, monospace" font-size="14" fill="#22C55E" letter-spacing="2">▲ EFFIZIENZ +12 % GGÜ. WOCHE</text>
+</svg>

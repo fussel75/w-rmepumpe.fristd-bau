@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+  <!-- BG -->
+  <rect width="1080" height="1080" fill="#0A0A0A"/>
+  <!-- Subtle grid -->
+  <g stroke="#161614" stroke-width="1">
+    <path d="M0,180 H1080 M0,360 H1080 M0,540 H1080 M0,720 H1080 M0,900 H1080"/>
+    <path d="M180,0 V1080 M360,0 V1080 M540,0 V1080 M720,0 V1080 M900,0 V1080"/>
+  </g>
+  <!-- Headline -->
+  <g font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-weight="900" letter-spacing="-4">
+    <text x="80" y="340" font-size="140" fill="#FFFFFF">Wärme, die</text>
+    <text x="80" y="500" font-size="180" fill="#FFE500">rechnet.</text>
+    <text x="80" y="680" font-size="140" fill="#FFFFFF">Heizkosten, die</text>
+    <text x="80" y="850" font-size="180" fill="#FFFFFF">bleiben.</text>
+  </g>
+  <!-- Yellow underline strike on "bleiben." -->
+  <rect x="80" y="810" width="720" height="14" fill="#FFE500" transform="rotate(-2 80 810)"/>
+</svg>

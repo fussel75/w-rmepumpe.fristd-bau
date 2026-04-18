@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720" width="600" height="720">
+  <rect x="2" y="2" width="596" height="716" rx="8" ry="8" fill="#FFFFFF" stroke="#E5E3DB" stroke-width="2"/>
+  <!-- Icon-Box -->
+  <rect x="48" y="48" width="72" height="72" rx="14" fill="#0A0A0A"/>
+  <polyline points="62,88 78,72 92,96 106,64" fill="none" stroke="#FFE500" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Meta -->
+  <text x="48" y="200" font-family="JetBrains Mono, monospace" font-weight="500" font-size="20" fill="#8A887E" letter-spacing="2">SCHRITT 01 · 0 €</text>
+  <!-- Headline -->
+  <text x="48" y="270" font-family="Inter, sans-serif" font-weight="800" font-size="48" fill="#0A0A0A">Beratung &amp;</text>
+  <text x="48" y="324" font-family="Inter, sans-serif" font-weight="800" font-size="48" fill="#0A0A0A">Heizlastberechnung</text>
+  <!-- Body -->
+  <text x="48" y="402" font-family="Inter, sans-serif" font-size="22" fill="#3A3A37">Wir analysieren Gebäude, Heizkörper,</text>
+  <text x="48" y="432" font-family="Inter, sans-serif" font-size="22" fill="#3A3A37">Hydraulik und Verbrauch — und rechnen,</text>
+  <text x="48" y="462" font-family="Inter, sans-serif" font-size="22" fill="#3A3A37">welche Wärmepumpe wirklich passt.</text>
+  <text x="48" y="492" font-family="Inter, sans-serif" font-size="22" fill="#3A3A37">Inklusive Förderscheck (BEG/KfW) und</text>
+  <text x="48" y="522" font-family="Inter, sans-serif" font-size="22" fill="#3A3A37">Wirtschaftlichkeit.</text>
+  <!-- Tags -->
+  <g font-family="Inter, sans-serif" font-weight="600" font-size="18" fill="#0A0A0A">
+    <rect x="48"  y="620" width="180" height="52" rx="26" fill="none" stroke="#0A0A0A" stroke-width="2"/>
+    <text x="138" y="653" text-anchor="middle">VOR-ORT-TERMIN</text>
+    <rect x="242" y="620" width="122" height="52" rx="26" fill="none" stroke="#0A0A0A" stroke-width="2"/>
+    <text x="303" y="653" text-anchor="middle">HEIZLAST</text>
+    <rect x="378" y="620" width="146" height="52" rx="26" fill="none" stroke="#0A0A0A" stroke-width="2"/>
+    <text x="451" y="653" text-anchor="middle">FÖRDERUNG</text>
+  </g>
+</svg>
