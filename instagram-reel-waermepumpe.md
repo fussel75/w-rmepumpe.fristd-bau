@@ -1,105 +1,122 @@
 # Instagram Reel – Wärmepumpen von FriStD-Bau
 
 **Ziel:** Launch der neuen Website `waermepumpe.fristd-bau.com`
-**Länge:** 15–20 Sekunden (Hook → Nutzen → CTA)
+**Länge:** 15–20 Sekunden (Hook → Beweis → CTA)
 **Format:** 9:16, 1080×1920, 30 fps
 **Sprache:** Deutsch
-**Tonalität:** modern, bodenständig, kompetent – „Handwerk trifft Zukunft"
+**Tonalität:** selbstbewusst, zahlenbasiert, Hamburger Handwerk – „Wärme, die rechnet."
 
 ---
 
-## Farb- & Stil-Leitfaden
+## Corporate-Design (gemäß waermepumpe.fristd-bau.com)
 
-Orientierung an `waermepumpe.fristd-bau.com` (Bau + Nachhaltigkeit):
+| Rolle               | Farbe                  | Hex        |
+| ------------------- | ---------------------- | ---------- |
+| Hintergrund / Primär | Tiefschwarz            | `#0A0A0A`  |
+| Akzent / CTA         | Signalgelb             | `#FFE500`  |
+| Text auf Schwarz     | Reinweiß               | `#FFFFFF`  |
+| Sekundärtext         | Warmgrau               | `#B8B5A8`  |
+| Status / Live-OK     | Grün (subtil)          | `#22C55E`  |
 
-| Rolle          | Farbe                      | Hex (Vorschlag) |
-| -------------- | -------------------------- | --------------- |
-| Primär         | Tiefblau / Anthrazit       | `#0E2A3A`       |
-| Akzent         | Energie-Grün               | `#3FB28F`       |
-| Highlight      | Warmes Gelb / Flamme       | `#F5B027`       |
-| Hintergrund    | Off-White                  | `#F4F6F5`       |
-| Text auf dunkel| Reinweiß                   | `#FFFFFF`       |
-
-**Typo:** Sans-Serif, kräftig (z. B. Inter, Montserrat Bold) für Claims; Regular für Fließtext.
-**Logo:** FriStD-Bau unten rechts, dezent, durchgehend sichtbar.
+**Typo:** fette Sans-Serif-Display (Headlines, sehr groß, eng gekerntet, ähnlich Inter/Söhne Black). Gelber Durchstreich-Marker als Signature-Element.
+**Logo:** „FriStD-Bau · Zimmerei & Baufirma – Holzbau von Fenster" – unten rechts, dezent weiß.
+**Raster:** feines dunkles Grid im Hintergrund (wie Hero-Section).
 
 ---
 
-## Storyboard (6 Szenen)
+## Storyboard (6 Szenen, 20 s)
 
 ### Szene 1 – Hook (0:00–0:02)
-- **Visual:** Schneller Zoom auf ein altes Heizkörper-Thermostat, Frost-Overlay.
-- **Text (groß, zentriert):** „Noch mit Öl oder Gas heizen?"
-- **SFX:** tiefer Bass-Hit
-- **Transition:** Whip-Pan nach rechts
+- **Visual:** Schwarzer Screen mit feinem Grid. Zahl `+83 %` (Gas) flackert weiß auf.
+- **Text:** „Deine Heizkosten letzten Winter?"
+- **SFX:** dumpfer Kick
+- **Transition:** Gelber Strich wischt horizontal, streicht „+83 %" durch (Signature-Element der Website).
 
-### Szene 2 – Problem → Lösung (0:02–0:05)
-- **Visual:** Split-Screen. Links: alte Heizung (entsättigt). Rechts: moderne Luft-Wasser-Wärmepumpe vor Einfamilienhaus (satte Farben, sonniger Garten).
-- **Text:** „Zeit für den Wechsel." → „Wärmepumpe von FriStD-Bau"
-- **Animation:** Grüner Balken wischt über das Bild (Akzent `#3FB28F`).
+### Szene 2 – Signature-Claim (0:02–0:06)
+- **Visual:** Schwarz, riesiger Typo-Aufbau wie auf der Website.
+- **Text-Animation:**
+  Zeile 1 (weiß): „Wärme, die ..."
+  Zeile 2 (gelb, pop-in): „rechnet."
+  Zeile 3 (weiß): „Heizkosten, die ..."
+  Zeile 4 (weiß): „bleiben." ← gelber Underline-Strike als letztes Element
+- **Voice-Over (optional, ruhig):** „Wärme, die rechnet. Heizkosten, die bleiben."
 
-### Szene 3 – USPs (0:05–0:10)
-Drei schnelle Cuts, je ~1,5 s, mit Icon + Text-Pop-Up:
-1. **„Bis zu 70 % weniger Heizkosten"** – Icon: Euro/Flamme
-2. **„Bis zu 70 % Förderung (BEG/KfW)"** – Icon: Urkunde
-3. **„Komplett aus einer Hand – Planung, Montage, Service"** – Icon: Werkzeug
+### Szene 3 – Live-Monitoring-Beweis (0:06–0:11)
+- **Visual:** Dunkle Monitoring-Card (exakt wie auf der Website) schiebt von rechts ins Bild.
+- **Einblendungen (sequenziell, je 1 s):**
+  - Badge: `● LIVE · WP-Anlage · Hamburg Niendorf`
+  - **JAZ 4.8** (gelb, hochzählend von 0)
+  - **Vorlauf 37 °C**
+  - **Strom → Wärme 1 : 4.6**
+  - Kurve „Wärmeabgabe 24 h" zeichnet sich in Gelb
+  - Fußzeile grün: `▲ Effizienz +12 % ggü. Woche`
+- **Text darunter (klein):** „Monitoring inklusive."
 
-- **Animation:** Zahlen zählen hoch (Counter-Animation).
-- **SFX:** Knackige „Tick"-Sounds pro Einblendung.
+### Szene 4 – USP-Trio (0:11–0:14)
+Drei Karten, je 1 s, horizontal durchscrollend:
+1. **Meisterbetrieb** – Planung · Lieferung · Einbau
+2. **Förderung geprüft** – BEG/KfW, Papierkram übernehmen wir
+3. **Effizienz garantiert** – digital betrieben mit Partner konzept-54
 
-### Szene 4 – Regional & Vertrauen (0:10–0:13)
-- **Visual:** Drohnen-Aufnahme über Wohngebiet, Standorte pulsieren grün.
-- **Text:** „Dein Fachbetrieb aus der Region."
-- **Optional:** kurzes O-Ton-Snippet des Inhabers (2 Sek).
+- **Animation:** Gelbe Check-Haken snappen rein.
 
-### Szene 5 – Website-Reveal (0:13–0:17)
-- **Visual:** Laptop-/Handy-Mockup, auf dem die neue Seite scrollt. Cursor bewegt sich zum Button „Beratung anfordern".
-- **Text (bold, Akzentfarbe):** „NEU ONLINE"
-- **URL-Bauchbinde unten:** `waermepumpe.fristd-bau.com`
-- **Animation:** URL tippt sich Zeichen für Zeichen ein.
+### Szene 5 – Regional & Reveal (0:14–0:17)
+- **Visual:** Kartenausschnitt Hamburg & Umland, Niendorf pulsiert gelb.
+- **Text:** „Für Hamburg & Umland."
+- **Cut →** Mockup Laptop/Handy mit Live-Site, Hero-Headline sichtbar.
+- **URL tippt sich ein:** `waermepumpe.fristd-bau.com`
 
 ### Szene 6 – CTA (0:17–0:20)
-- **Visual:** Vollflächig Primärfarbe `#0E2A3A`, Logo zentral, darunter CTA-Button in `#F5B027`.
-- **Text groß:** „Jetzt kostenlos beraten lassen."
-- **Button-Text:** „waermepumpe.fristd-bau.com"
-- **Voice-Over (optional):** „FriStD-Bau – deine Wärmepumpe. Heute planen, morgen sparen."
+- **Visual:** Vollflächig Schwarz, Grid-Hintergrund.
+- **Headline:** „Kostenlose Erstberatung."
+- **Button (gelb, wie auf Site):** `Erstberatung →`
+- **Zweitoption (outline):** `Förderscheck öffnen`
+- **Telefon unten:** `040 · 386 745 65`
+- **Logo-Lockup** oben links.
 
 ---
 
 ## Caption (Post-Text)
 
-> Schluss mit teurem Heizen. 🔥➡️💧
+> **Wärme, die rechnet. Heizkosten, die ~~bleiben~~.** ⚡
+>
 > Unsere neue Seite ist live: **waermepumpe.fristd-bau.com**
-> Luft-Wasser-Wärmepumpen, geplant und montiert von deinem Fachbetrieb FriStD-Bau.
-> Bis zu 70 % Förderung sichern – wir übernehmen den Papierkram.
-> 👉 Link in Bio für deine kostenlose Beratung.
+>
+> Meisterbetrieb für moderne Wärmepumpen in Hamburg & Umland.
+> JAZ 4.8 · Vorlauf 37 °C · Monitoring inklusive · Förderung geprüft.
+>
+> Planung, Lieferung, Einbau – fachgerecht von FriStD-Bau,
+> digital betrieben mit unserem Partner konzept-54.
+>
+> 👉 Link in Bio oder 📞 040 · 386 745 65 für deine kostenlose Erstberatung.
 
 **Hashtags:**
-`#Wärmepumpe #FriStDBau #Heizungstausch #Energiewende #BEG #KfWFörderung #Nachhaltigbauen #Handwerk #LuftWasserWärmepumpe #Sanierung`
+`#Wärmepumpe #FriStDBau #Hamburg #HamburgNiendorf #Heizungstausch #Energiewende #BEG #KfWFörderung #Meisterbetrieb #Zimmerei #Holzbau #Sanierung #konzept54`
 
 ---
 
-## Musik-Vorschläge (Instagram Audio Library)
+## Musik-Vorschläge (IG-Audio)
 
-- „Upbeat Corporate Tech" – treibende Snare, leichte Synths
-- „Modern House Build" – 110–120 BPM, claps auf 2 & 4
-- Alternativ: trending Audio mit hartem Cut auf Szene 2 (Beat-Drop = Logo-Reveal)
-
----
-
-## Technische Umsetzung (CapCut / Premiere)
-
-- **Cuts** exakt auf Beats setzen (Beat-Drop bei Szene 2 und Szene 5).
-- **Untertitel** hart einbrennen (85 % schauen ohne Ton).
-- **Safe-Area:** Oberer/unterer 250 px Rand freihalten (IG-UI).
-- **Export:** H.264, 10–12 Mbit/s, Loudness −14 LUFS.
+- Minimaler Tech-Beat, 110–120 BPM, dunkel/clean
+- Kick-Drop exakt auf Szene 2 („rechnet.") und Szene 5 (URL-Reveal)
+- Alternativ trending Deep-House-Snippet
 
 ---
 
-## Varianten zum Testen (A/B)
+## Produktions-Hinweise
 
-| Variante | Hook                                     | CTA                               |
-| -------- | ---------------------------------------- | --------------------------------- |
-| A        | „Noch mit Öl oder Gas heizen?"           | „Jetzt kostenlos beraten lassen." |
-| B        | „70 % Förderung – und keiner nutzt sie?" | „In 60 Sek. Förderung checken."   |
-| C        | „So sieht die Heizung 2030 aus."         | „Jetzt Termin sichern."           |
+- **Untertitel** hart einbrennen (weiß auf schwarz, gelbe Keywords).
+- Gelber **Durchstreich** als wiederkehrendes Motion-Element (Website-Signature).
+- Grid-Hintergrund subtil animiert (langsam driftend), nicht ablenkend.
+- Safe-Area: oben/unten 250 px frei für IG-UI.
+- Export: H.264, 10–12 Mbit/s, Loudness −14 LUFS.
+
+---
+
+## A/B-Varianten
+
+| Variante | Hook                                        | CTA                              |
+| -------- | ------------------------------------------- | -------------------------------- |
+| A        | „Deine Heizkosten letzten Winter? +83 %."   | „Kostenlose Erstberatung →"      |
+| B        | „JAZ 4.8. Live aus Hamburg Niendorf."       | „Förderscheck in 60 Sek. →"      |
+| C        | „Wärme, die rechnet."                       | „040 · 386 745 65 anrufen."      |
